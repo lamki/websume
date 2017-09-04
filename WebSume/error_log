@@ -1,0 +1,15 @@
+[30-Aug-2017 11:26:49 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: REMOTE_ADDR in /home/zulikmal/public_html/resume/index.php on line 18
+[30-Aug-2017 11:26:49 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: HTTP_REFFERER in /home/zulikmal/public_html/resume/index.php on line 21
+[30-Aug-2017 11:26:49 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: HTTP_USER_AGENT in /home/zulikmal/public_html/resume/index.php on line 25
+[30-Aug-2017 11:27:01 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: REMOTE_ADDR in /home/zulikmal/public_html/resume/index.php on line 18
+[30-Aug-2017 11:27:01 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: HTTP_REFFERER in /home/zulikmal/public_html/resume/index.php on line 21
+[30-Aug-2017 11:27:01 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: HTTP_USER_AGENT in /home/zulikmal/public_html/resume/index.php on line 25
+[30-Aug-2017 12:50:10 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: REMOTE_ADDR in /home/zulikmal/public_html/resume/index.php on line 18
+[30-Aug-2017 12:50:10 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: HTTP_REFFERER in /home/zulikmal/public_html/resume/index.php on line 21
+[30-Aug-2017 12:50:10 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: HTTP_USER_AGENT in /home/zulikmal/public_html/resume/index.php on line 25
+[30-Aug-2017 13:56:55 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: REMOTE_ADDR in /home/zulikmal/public_html/resume/index.php on line 18
+[30-Aug-2017 13:56:55 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: HTTP_REFFERER in /home/zulikmal/public_html/resume/index.php on line 21
+[30-Aug-2017 13:56:55 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: HTTP_USER_AGENT in /home/zulikmal/public_html/resume/index.php on line 25
+[04-Sep-2017 22:52:36 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: REMOTE_ADDR in /home/zulikmal/public_html/resume/index.php on line 18
+[04-Sep-2017 22:52:36 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: HTTP_REFFERER in /home/zulikmal/public_html/resume/index.php on line 21
+[04-Sep-2017 22:52:36 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: HTTP_USER_AGENT in /home/zulikmal/public_html/resume/index.php on line 25
